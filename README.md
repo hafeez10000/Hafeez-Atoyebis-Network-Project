@@ -1,4 +1,7 @@
 # Hafeez Atoyebi's Network Project
+To explore and interact with this lab environment, download **Cisco Packet Tracer** :
+Once installed, open the `.pkt` file included in this repository.
+
 
 To interact with the network device configurations, use the following lab credentials:
 
